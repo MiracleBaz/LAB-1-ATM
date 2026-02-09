@@ -24,6 +24,6 @@ to withdraw money,deposit.
 
 <img width="1241" height="1007" alt="Screenshot 2026-02-04 111927" src="https://github.com/user-attachments/assets/8d9757ae-c0ae-4579-8161-6d55d607241b" />
 
-
 ### RESULT: 
+
 Thus the Atm and banking System project was executed and the output was verified.
