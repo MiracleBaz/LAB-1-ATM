@@ -16,6 +16,13 @@ to withdraw money,deposit.
 
 <img width="1244" height="1012" alt="Screenshot 2026-02-04 112438" src="https://github.com/user-attachments/assets/3dfe4111-fd59-47c3-849e-8717f982c9ee" />
 
+
+# ACTIVITY DIAGRAM:
+<img width="517" height="773" alt="Screenshot 2025-10-30 152440" src="https://github.com/user-attachments/assets/f19e3d56-d213-4ff7-8c1a-2321b9f8361f" />
+
+# PACKAGE DIAGRAM:
+<img width="717" height="554" alt="Screenshot 2025-10-30 152100" src="https://github.com/user-attachments/assets/9d0963ae-dc11-44f6-a84b-10f0d10c71a8" />
+
 ### CLASS DIAGRAM
 
 <img width="1240" height="1018" alt="Screenshot 2026-02-04 112029" src="https://github.com/user-attachments/assets/8483f61f-5980-4c40-ac7f-12c1c4a07f9a" />
